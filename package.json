@@ -1,0 +1,19 @@
+{
+  "name": "react-polygon",
+  "version": "1.0.0",
+  "description": "test examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zilo676/react-polygon.git"
+  },
+  "author": "Zilo676",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zilo676/react-polygon/issues"
+  },
+  "homepage": "https://github.com/Zilo676/react-polygon#readme"
+}
