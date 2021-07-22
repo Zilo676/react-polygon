@@ -1,0 +1,42 @@
+{
+  "name": "react-polygon",
+  "version": "1.0.0",
+  "description": "test examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zilo676/react-polygon.git"
+  },
+  "author": "Zilo676",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zilo676/react-polygon/issues"
+  },
+  "homepage": "https://github.com/Zilo676/react-polygon#readme",
+  "devDependencies": {
+    "@types/react": "17.0.14",
+    "@types/react-redux": "7.1.18",
+    "@types/react-router-dom": "5.1.8",
+    "copy-webpack-plugin": "9.0.1",
+    "react-redux": "7.2.4",
+    "ts-loader": "9.2.3",
+    "typescript": "4.3.5",
+    "webpack": "5.45.1",
+    "webpack-cli": "4.7.2",
+    "webpack-dev-server": "3.11.2"
+  },
+  "dependencies": {
+    "@fluentui/react": "8.23.7",
+    "axios": "0.21.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-router-dom": "5.2.0",
+    "redux": "4.1.0",
+    "redux-thunk": "2.3.0"
+  }
+}
