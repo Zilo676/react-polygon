@@ -22,7 +22,13 @@
     "noImplicitThis": true,
     "experimentalDecorators": true,
     "suppressImplicitAnyIndexErrors": true,
+    
     "skipLibCheck": true,
+    // "paths": {
+    //   "@components/*": [
+    //     "components/*"
+    //   ]
+    // }
   },
   "exclude": [
     "node_modules"
